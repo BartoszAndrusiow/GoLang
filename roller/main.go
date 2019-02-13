@@ -64,7 +64,6 @@ func main(){
 //	roller:=[]int{5, 6 ,4 ,3 ,6 ,2, 3};
 //	rollerThrow:=[]int{3 ,2 ,5};
 
-	
 	fmt.Println(GetLastRollerPos(roller,rollerThrow));
 
 	fmt.Println("End")
